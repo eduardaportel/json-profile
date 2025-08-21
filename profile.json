@@ -1,0 +1,37 @@
+{
+    "name": "Eduarda Portel",
+    "role": "Computer Scientist Student",
+    "summary": "Enthusiast about data, statistics, and problem-solving. Always learning new technologies.",
+    "skills": ["Python", "Java", "JavaScript", "Data Visualization"],
+    "experience": [
+    {
+        "company": "SAS",
+        "role": "Costumer Success Intern",
+        "years": "2025 - Present",
+        "description": "Assisting customers with software solutions, providing technical support, and ensuring customer satisfaction."
+    }
+    ],
+    "projects": [
+        {
+            "name": "Localiza Eureka",
+            "description": "Python app developed for Instituto Mauá de Tecnologia’s Eureka event, enabling real-time location of rooms and stands via interactive map."
+        },
+        {
+            "name": "Galactic Harmony",
+            "description": "Astronomical data analysis and visualization in Tableau, exploring galaxy mass, brightness, and redshift with interactive dashboards."
+        },
+        {
+            "name": "CodeQuiz",
+            "description": "Interactive educational app to teach Python basics through dynamic quizzes, designed with beginner accessibility in mind."
+        },
+        {
+            "name": "Institutional Website – Missão Ambiental",
+            "description": "Responsive website for NGO Missão Ambiental – Ipiranga, providing access to social projects, contact, and promotion of environmental initiatives."
+        }
+    ],
+    "contact": {
+        "email": "eduarda.portel4@gmail.com",
+        "LinkedIn": "https://www.linkedin.com/in/eduarda-portel/",
+        "GitHub": "https://github.com/eduardaportel"
+    }
+}
